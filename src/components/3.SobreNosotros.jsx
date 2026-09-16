@@ -12,12 +12,13 @@ export default function SobreNosotros () {
                 <div>
                     <h2 className="text-3xl font-bold mb-4"> Sobre Nosotros </h2>
                     <p className="text-gray-600 mb-4">
-                        En [Nombre del Negocio], ofrecemos servicios de calidad con más de 8 años de experiencia.
+                        En <strong>[Nombre del Negocio],</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, placeat.
                     </p>
-                    <p className="text-gray-600">
-                        Nuestro equipo está formado por profesionales certificados que garantizan una experiencia única 
-                        y satisfactoria para nuestros clientes. Nos enorgullece brindar un servicio excepcional y 
-                        personalizado, adaptándonos a las necesidades de cada cliente.
+                    <p className="text-gray-600 text-justify">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut suscipit modi inventore minus nostrum iusto aut?
+                        Neque quaerat, sapiente excepturi consequuntur suscipit aut eveniet consequatur quod labore iure aperiam consectetur.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laudantium doloribus nam impedit quos ex sint id explicabo 
+                        vero alias perspiciatis at voluptatem voluptatum aperiam, dolorem nesciunt blanditiis ipsum odio!
                     </p>
                 </div>
             </div>
