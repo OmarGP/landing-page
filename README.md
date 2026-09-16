@@ -59,7 +59,7 @@ Transiciones elegantes entre secciones.
 
 1. Clonar el repositorio:
 
-    - git clone https://github.com/tuusuario/landing-page.git
+    - git clone https://github.com/OmarGP/landing-page
 
 2. Instalar dependencias:
 
