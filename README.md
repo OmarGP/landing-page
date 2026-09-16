@@ -20,11 +20,11 @@ Crear una landing page rápida, responsive y visualmente atractiva que permita a
 ## 📦 Estructura del proyecto
     src/
     ├─ components/
-    │    ├─ Hero.jsx
-    │    ├─ Servicios.jsx
-    │    ├─ SobreNosotros.jsx
-    │    ├─ Reseñas.jsx
-    │    └─ Contacto.jsx
+    │    ├─ 1.Hero.jsx
+    │    ├─ 2.Servicios.jsx
+    │    ├─ 3.SobreNosotros.jsx
+    │    ├─ 4.Reseñas.jsx
+    │    └─ 5.Contacto.jsx
     ├─ App.jsx
     ├─ index.css
     └─ main.jsx
@@ -104,11 +104,11 @@ Para activar reseñas reales:
 Este proyecto puede ser utilizado como plantilla para fines personales o comerciales.
 
 ### 🧑‍💻 Autor
-Omar García Prado  
-Desarrollador Front-End — React · Vite · Tailwind
-Madrid, España
+- Omar García Prado  
+- Desarrollador Front-End — React · Vite · Tailwind
+- Madrid, España
 
 ### 📬 Contacto
 Si deseas una landing page profesional para tu negocio:
-Email: omar94garcia.dev@gmail.com
-WhatsApp: 675795159
+- Email: omar94garcia.dev@gmail.com
+- WhatsApp: +34675795159
