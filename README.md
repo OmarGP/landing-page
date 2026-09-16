@@ -4,7 +4,7 @@ Landing page moderna desarrollada con **React + Vite + Tailwind CSS**, optimizad
 ## 🚀 Tecnologías utilizadas
 - **React 18**
 - **Vite**
-- **Tailwind CSS**
+- **Tailwind CSS 3.4.13**
 - **JavaScript**
 - **Google Reviews (opcional)**
 - **Animaciones y scroll suave**
